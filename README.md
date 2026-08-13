@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Phu Nhan</h1>
 
-<h3 align="center">Computer Science student at NUS 🇸🇬 | Interested in Artificial Intelligence 🤖</h3>
+<h3 align="center">Computer Science student at NUS 🇸🇬</h3>
 
 <p align="center">
-I'm passionate about AI, machine learning, and building technology that solves meaningful problems.  
-I'm currently studying Computer Science at the National University of Singapore (NUS), and I'm always excited to learn, experiment, and collaborate on interesting projects.
+I'm currently studying Computer Science at the National University of Singapore (NUS). I used to be a Competitive Programmer but I'm retired now.
 </p>
 
 <h3 align="left">Connect with me:</h3>
