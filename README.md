@@ -20,7 +20,6 @@ I'm currently studying Computer Science at the National University of Singapore 
 
 * 💻 I'm a **Computer Science student at NUS**
 * 🤖 I'm interested in **Artificial Intelligence and Machine Learning**
-* 🧠 I enjoy exploring new technologies and turning ideas into projects
 * 🌱 I'm continuously learning more about **AI, software engineering, and computer science**
 * 🤝 I'm open to **collaborations, projects, and opportunities**
 * 📫 Reach me at **[nguyen.phu.nhan@u.nus.edu](mailto:nguyen.phu.nhan@u.nus.edu)**
